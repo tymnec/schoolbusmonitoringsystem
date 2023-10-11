@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/schoolbusmonitoringsystem/static/css/main.4ea48c08.css",
-    "main.js": "/schoolbusmonitoringsystem/static/js/main.94523db1.js",
+    "main.css": "/schoolbusmonitoringsystem/static/css/main.231c52b3.css",
+    "main.js": "/schoolbusmonitoringsystem/static/js/main.6644440c.js",
     "static/js/651.53f9b5b4.chunk.js": "/schoolbusmonitoringsystem/static/js/651.53f9b5b4.chunk.js",
     "index.html": "/schoolbusmonitoringsystem/index.html",
-    "main.4ea48c08.css.map": "/schoolbusmonitoringsystem/static/css/main.4ea48c08.css.map",
-    "main.94523db1.js.map": "/schoolbusmonitoringsystem/static/js/main.94523db1.js.map",
+    "main.231c52b3.css.map": "/schoolbusmonitoringsystem/static/css/main.231c52b3.css.map",
+    "main.6644440c.js.map": "/schoolbusmonitoringsystem/static/js/main.6644440c.js.map",
     "651.53f9b5b4.chunk.js.map": "/schoolbusmonitoringsystem/static/js/651.53f9b5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ea48c08.css",
-    "static/js/main.94523db1.js"
+    "static/css/main.231c52b3.css",
+    "static/js/main.6644440c.js"
   ]
 }
